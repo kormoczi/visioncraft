@@ -1,7 +1,7 @@
 {
-    "client_id": "https://raw.githubusercontent.com/kormoczi/visioncraft/main/artlist-client.json",
+    "client_id": "https://kormoczi.github.io/visioncraft/artlist-client.json",
     "client_name": "VisionCraft",
-    "client_uri": "https://github.com/kormoczi/visioncraft",
+    "client_uri": "https://kormoczi.github.io/visioncraft/",
     "redirect_uris": ["http://127.0.0.1:8000/cloud/artlist/callback"],
     "grant_types": ["authorization_code", "refresh_token", "urn:ietf:params:oauth:grant-type:device_code"],
     "response_types": ["code"],
